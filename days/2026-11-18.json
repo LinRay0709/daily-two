@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-18",
+ "topic": "科技與 AI",
+ "title": "ChatGPT Wallet: agents shop, but you sign off",
+ "hook": "你叫 AI 幫你下單，它拿著你的信用卡站在收銀台前，卻不敢刷。",
+ "bridge": "OpenAI 不敢一口氣全面開放，只讓少數用戶先試試水溫。",
+ "src": {
+  "name": "StockAnalysis",
+  "url": "https://stockanalysis.com/news/openai-launches-chatgpt-wallet/"
+ },
+ "p": [
+  "OpenAI launched ChatGPT Wallet on November 13, letting its AI agents check out for users. For now it is open only to ChatGPT Pro subscribers in the US who are 18 or older. Nothing is bought until the user {0} each purchase with a biometric check, and the agent pays with a substitute card number, so it never sees the real one.",
+  "The rollout is narrow on purpose. OpenAI is {1} here: American Express, Mastercard and Visa are partners, and OpenAI takes no cut of purchases at launch. Not every shop is ready, though. United Airlines will block AI agents from booking tickets, and Amazon does not let them buy on its site."
+ ],
+ "inText": [
+  "signs off on",
+  "dipping a toe in the water"
+ ],
+ "words": [
+  {
+   "term": "sign off on",
+   "ipa": "/saɪn ɔːf ɑːn/",
+   "pos": "phrasal verb · informal · business",
+   "zh": "正式批准、點頭同意",
+   "def": "to officially approve something so that it can go ahead",
+   "mn": "AI 把購物單遞到你面前，你拿筆在簽名欄簽下名字，單子才蓋章生效。簽了名才放行，就是 sign off on。",
+   "ex": "The board has to sign off on the budget before we hire anyone.",
+   "exZh": "董事會得先批准預算，我們才能開始招人。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"一張購物單，簽名欄被筆簽下名字，旁邊蓋著核准章\"><rect x=\"60\" y=\"20\" width=\"150\" height=\"150\" rx=\"8\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"74\" y=\"46\" class=\"svgl\">ORDER</text><line x1=\"74\" y1=\"62\" x2=\"196\" y2=\"62\" stroke=\"var(--line)\" stroke-width=\"2\"/><line x1=\"74\" y1=\"82\" x2=\"196\" y2=\"82\" stroke=\"var(--line)\" stroke-width=\"2\"/><line x1=\"74\" y1=\"102\" x2=\"170\" y2=\"102\" stroke=\"var(--line)\" stroke-width=\"2\"/><line x1=\"74\" y1=\"148\" x2=\"196\" y2=\"148\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"74\" y=\"164\" class=\"hand\">sign here</text><path class=\"d1118-sig\" d=\"M84 140 C96 120 104 156 116 136 S140 150 160 138\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\" stroke-linecap=\"round\"/><g class=\"d1118-pen\"><line x1=\"160\" y1=\"138\" x2=\"196\" y2=\"96\" stroke=\"var(--ink)\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"160\" cy=\"138\" r=\"3\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2\"/></g><circle class=\"d1118-ok\" cx=\"262\" cy=\"70\" r=\"30\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"246\" y=\"76\" class=\"svgl d1118-ok\">OK</text><text x=\"226\" y=\"130\" class=\"hand\">Wallet</text></svg>"
+  },
+  {
+   "term": "dip a toe in the water",
+   "ipa": "/dɪp ə toʊ ɪn ðə ˈwɔːtər/",
+   "pos": "idiom · informal · business",
+   "zh": "小規模先試水溫",
+   "def": "to try something new in a small, careful way before committing fully",
+   "mn": "OpenAI 站在泳池邊，只把一根腳趾伸進水裡，先讓 Pro 用戶試用。腳趾先試水溫，就是小規模試試看。",
+   "ex": "The bank is dipping a toe in the water with a small crypto pilot.",
+   "exZh": "這家銀行先以小規模的加密貨幣試辦計畫試水溫。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"一隻腳趾輕輕伸進泳池試水溫，池邊牌子寫著只限 Pro 用戶\"><rect x=\"20\" y=\"110\" width=\"280\" height=\"64\" rx=\"10\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><path d=\"M30 130 q15 -8 30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0\" fill=\"none\" stroke=\"var(--mute)\" stroke-width=\"2\"/><g class=\"d1118-toe\"><path d=\"M110 20 L110 80 C110 92 98 98 98 106 L146 106 C146 98 130 94 130 80 L130 20 Z\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><circle cx=\"104\" cy=\"106\" r=\"5\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2\"/></g><ellipse class=\"d1118-rip\" cx=\"104\" cy=\"122\" rx=\"18\" ry=\"5\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2\"/><rect x=\"214\" y=\"40\" width=\"84\" height=\"40\" rx=\"6\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"226\" y=\"65\" class=\"svgl\">Pro only</text><line x1=\"256\" y1=\"80\" x2=\"256\" y2=\"110\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"30\" y=\"30\" class=\"hand\">just a toe</text></svg>"
+  }
+ ],
+ "css": ".d1118-sig{stroke-dasharray:160;animation:d1118-draw 3.6s ease-in-out infinite}\n.d1118-pen,.d1118-toe,.d1118-rip{transform-box:fill-box}\n.d1118-pen{animation:d1118-pen 3.6s ease-in-out infinite}\n.d1118-ok{transform-box:fill-box;transform-origin:center;animation:d1118-stamp 3.6s ease-in infinite}\n.d1118-toe{transform-origin:center top;animation:d1118-dip 3.4s ease-in-out infinite}\n.d1118-rip{transform-origin:center;animation:d1118-rip 3.4s ease-out infinite}\n@keyframes d1118-draw{0%{stroke-dashoffset:160}50%,100%{stroke-dashoffset:0}}\n@keyframes d1118-pen{0%{transform:translate(-76px,0)}50%{transform:translate(0,0)}100%{transform:translate(0,0)}}\n@keyframes d1118-stamp{0%,55%{opacity:0;transform:scale(1.6)}70%,100%{opacity:1;transform:scale(1)}}\n@keyframes d1118-dip{0%,100%{transform:translateY(-12px)}45%,60%{transform:translateY(6px)}}\n@keyframes d1118-rip{0%,40%{opacity:0;transform:scale(.4)}55%{opacity:1;transform:scale(1)}100%{opacity:0;transform:scale(1.8)}}\n@media (prefers-reduced-motion:reduce){.d1118-sig{stroke-dasharray:none}.d1118-ok{opacity:1}.d1118-rip{opacity:1}}",
+ "quiz": [
+  {
+   "q": "The manager has to ___ every expense over $500.",
+   "opts": [
+    "sign off on",
+    "run out of",
+    "look down on"
+   ],
+   "a": 0,
+   "why": "sign off on 是正式批准。run out of 是用完，look down on 是瞧不起。"
+  },
+  {
+   "q": "The restaurant chain is ___ with a single delivery-only kitchen before expanding.",
+   "opts": [
+    "burning the candle",
+    "dipping a toe in the water",
+    "rocking the boat"
+   ],
+   "a": 1,
+   "why": "dip a toe in the water 是小規模試水溫。burn the candle 是過度操勞，rock the boat 是搗亂現狀。"
+  }
+ ]
+}
