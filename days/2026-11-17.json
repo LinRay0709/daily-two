@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-17",
+ "topic": "醫療與生技新創",
+ "title": "Tandem's tubeless pump lets users cut the cord",
+ "hook": "你的腰間掛著胰島素幫浦，一條細管像尾巴一樣拖著你走。",
+ "bridge": "如果這款新幫浦賣得好，對整間公司就像打了一劑強心針。",
+ "src": {
+  "name": "MedTech Dive",
+  "url": "https://medtechdive.com/news/tandem-wins-fda-clearance-for-tubeless-automated-insulin-delivery-system/874718"
+ },
+ "p": [
+  "Tandem Diabetes Care says the FDA has cleared a tubeless version of its Mobi insulin pump. Instead of a tube and infusion set, users wear a disposable kit on the body, so they can finally {0}. The new infusion set and cartridge are cleared for up to seven days of wear.",
+  "Tandem plans a limited release in 2027, with full availability in the first half of that year, sold through pharmacies. Analysts at Leerink Partners called it the company's single most important commercial growth driver. If the launch goes well, it could be a real {1} for Tandem as it competes with Insulet in tubeless pumps."
+ ],
+ "inText": [
+  "cut the cord",
+  "shot in the arm"
+ ],
+ "words": [
+  {
+   "term": "cut the cord",
+   "ipa": "/kʌt ðə kɔːrd/",
+   "pos": "idiom · informal · everyday",
+   "zh": "擺脫束縛、不再依賴",
+   "def": "to stop depending on something that has been holding you back or tying you down",
+   "mn": "幫浦的細管像一條臍帶，把使用者綁在機器旁。Tandem 的新款讓人拿起剪刀，喀嚓剪斷管子。管子沒了，就是擺脫束縛。",
+   "ex": "Millions of households have cut the cord and switched to streaming.",
+   "exZh": "數百萬家庭不再訂有線電視，改看串流。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"剪刀剪斷連接胰島素幫浦與身體的管線\"><rect x=\"18\" y=\"62\" width=\"62\" height=\"86\" rx=\"10\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"30\" y=\"76\" width=\"38\" height=\"22\" rx=\"4\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><text x=\"26\" y=\"124\" class=\"svgl\">pump</text><path d=\"M80 130 C110 130 120 100 150 100\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><path class=\"d1117-tube\" d=\"M150 100 C180 100 200 130 240 120\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><circle cx=\"262\" cy=\"118\" r=\"22\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"252\" y=\"110\" width=\"20\" height=\"16\" rx=\"3\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><g class=\"d1117-sc\"><line class=\"d1117-b1\" x1=\"150\" y1=\"100\" x2=\"178\" y2=\"72\" stroke=\"var(--ink)\" stroke-width=\"3\"/><line class=\"d1117-b2\" x1=\"150\" y1=\"100\" x2=\"178\" y2=\"128\" stroke=\"var(--ink)\" stroke-width=\"3\"/><circle cx=\"140\" cy=\"86\" r=\"8\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><circle cx=\"140\" cy=\"114\" r=\"8\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><text x=\"196\" y=\"44\" class=\"svgl d1117-t\">snip!</text><text x=\"22\" y=\"176\" class=\"hand\">no tube</text></svg>"
+  },
+  {
+   "term": "a shot in the arm",
+   "ipa": "/ə ʃɑːt ɪn ði ɑːrm/",
+   "pos": "idiom · informal · business",
+   "zh": "強心針、提振士氣或業績",
+   "def": "something that gives new energy, confidence or momentum",
+   "mn": "Tandem 業績需要提神，新款無管幫浦就像護理師一針打進手臂。針一推，公司立刻精神大振。一針打進手臂，就是強心針。",
+   "ex": "The new funding was a shot in the arm for the struggling startup.",
+   "exZh": "這筆新資金對苦撐的新創公司是一劑強心針。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"針筒打在手臂上，旁邊冒出向上的箭頭代表精神一振\"><rect x=\"60\" y=\"120\" width=\"190\" height=\"44\" rx=\"22\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g class=\"d1117-syr\"><rect x=\"142\" y=\"28\" width=\"30\" height=\"58\" rx=\"5\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line class=\"d1117-pl\" x1=\"157\" y1=\"10\" x2=\"157\" y2=\"40\" stroke=\"var(--ink)\" stroke-width=\"3\"/><line x1=\"146\" y1=\"10\" x2=\"168\" y2=\"10\" stroke=\"var(--ink)\" stroke-width=\"3\"/><rect x=\"146\" y=\"58\" width=\"22\" height=\"24\" rx=\"3\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2\"/><line x1=\"157\" y1=\"86\" x2=\"157\" y2=\"116\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><g class=\"d1117-up\"><path d=\"M240 100 L240 56 M222 74 L240 54 L258 74\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g><text x=\"22\" y=\"48\" class=\"svgl\">Mobi 2027</text><text x=\"196\" y=\"182\" class=\"hand\">boost!</text></svg>"
+  }
+ ],
+ "css": ".d1117-tube,.d1117-b1,.d1117-b2,.d1117-syr,.d1117-up,.d1117-pl{transform-box:fill-box}\n.d1117-tube{transform-origin:left center;animation:d1117-drop 3.6s ease-in infinite}\n.d1117-b1{transform-origin:left center;animation:d1117-s1 3.6s ease-in-out infinite}\n.d1117-b2{transform-origin:left center;animation:d1117-s2 3.6s ease-in-out infinite}\n.d1117-t{animation:d1117-pop 3.6s ease-in-out infinite}\n.d1117-syr{transform-origin:center;animation:d1117-jab 3.4s ease-in-out infinite}\n.d1117-pl{transform-origin:center bottom;animation:d1117-push 3.4s ease-in-out infinite}\n.d1117-up{transform-origin:center bottom;animation:d1117-rise 3.4s ease-out infinite}\n@keyframes d1117-drop{0%,40%{transform:none;opacity:1}85%,100%{transform:translateY(60px) rotate(25deg);opacity:0}}\n@keyframes d1117-s1{0%,20%,60%,100%{transform:rotate(0)}40%{transform:rotate(14deg)}}\n@keyframes d1117-s2{0%,20%,60%,100%{transform:rotate(0)}40%{transform:rotate(-14deg)}}\n@keyframes d1117-pop{0%,38%{opacity:0}48%,100%{opacity:1}}\n@keyframes d1117-jab{0%,15%{transform:translateY(-8px)}40%,60%{transform:translateY(4px)}85%,100%{transform:translateY(-8px)}}\n@keyframes d1117-push{0%,35%{transform:translateY(0)}55%,100%{transform:translateY(14px)}}\n@keyframes d1117-rise{0%,45%{transform:translateY(16px);opacity:0}70%{transform:none;opacity:1}100%{transform:translateY(-8px);opacity:0}}\n@media (prefers-reduced-motion:reduce){.d1117-tube{opacity:.3}.d1117-up{opacity:1}.d1117-t{opacity:1}}",
+ "quiz": [
+  {
+   "q": "After years of cable bills, she finally ___ and moved everything online.",
+   "opts": [
+    "cut the cord",
+    "bit the bullet",
+    "jumped the gun"
+   ],
+   "a": 0,
+   "why": "cut the cord 是擺脫束縛、不再依賴。bite the bullet 是硬著頭皮面對，jump the gun 是操之過急。"
+  },
+  {
+   "q": "The surprise order was a real ___ for the small factory.",
+   "opts": [
+    "pain in the neck",
+    "shot in the arm",
+    "long shot"
+   ],
+   "a": 1,
+   "why": "a shot in the arm 是強心針、提振。pain in the neck 是麻煩的人事物，a long shot 是成功機率很低的嘗試。"
+  }
+ ]
+}
