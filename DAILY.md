@@ -4,7 +4,7 @@ This repository is a public GitHub Pages site. `index.html` is a fixed player th
 
 ## The reader
 
-One person: a native Mandarin speaker (Traditional Chinese, Taiwan) with advanced English (TOEIC 900+). They read news comfortably. What they lack is the idioms, slang, phrasal verbs and collocations that native speakers actually use in business, tech and everyday talk. They remember things through vivid, concrete, slightly funny mental images, and the whole lesson must take under two minutes.
+One person: a native Mandarin speaker (Traditional Chinese, Taiwan) with advanced English (TOEIC 900+). They read news comfortably. What they lack is the idioms, slang, phrasal verbs and collocations that native speakers actually use in business, tech and everyday talk, plus the vivid single words that native writers reach for and learners rarely produce. Each day teaches one phrase and one word. They remember things through vivid, concrete, slightly funny mental images, and the whole lesson must take under two minutes.
 
 ## Steps
 
@@ -14,7 +14,10 @@ One person: a native Mandarin speaker (Traditional Chinese, Taiwan) with advance
    - `科技與 AI`: AI models and companies, chips, consumer tech, big-tech moves.
    - `醫療與生技新創`: medical devices, digital health, biotech startups, funding rounds, FDA decisions.
    Pick a story with a concrete, picturable situation. Open the article itself (not only a search snippet) and confirm every fact you will state: names, numbers, dates. If you cannot confirm a detail, leave it out. If nothing from the last three days is solid, use the most recent story you can verify. Never invent news.
-4. Choose two target items that fit this story naturally. Each must be an idiom, slang expression, phrasal verb or collocation that an educated native speaker uses and an advanced learner probably does not produce. No textbook vocabulary (nothing like "ubiquitous" or "mitigate"), nothing archaic, nothing offensive. The two items should feel different from each other.
+4. Choose two target items that fit this story naturally: one phrase and one single word, in that order.
+   - Item 1, the phrase: an idiom, slang expression, phrasal verb or collocation that an educated native speaker uses and an advanced learner probably does not produce.
+   - Item 2, the word: one single word (no spaces; a hyphenated compound counts as one word) that shows up in real business, tech or health news and everyday educated talk, and that an advanced learner may recognise but would not think to use. Good kinds: a vivid word with a figurative business sense ("moat", "bellwether", "headwinds", "cannibalize", "sunset" as a verb, "dogfood"), or a common word used in a sense learners miss ("hedge", "table" as a verb). Not textbook or exam vocabulary chosen for being rare or Latinate (nothing like "ubiquitous", "mitigate", "paradigm"), and not plain words the reader already uses ("innovation", "approve").
+   - Neither item may be archaic or offensive.
 5. Write `days/DATE.json` following the schema below.
 6. Set `latest.json` to `{"date":"DATE"}` and append `{"date","topic","terms"}` for today to `history.json`.
 7. Run `node scripts/validate.mjs DATE`. Fix every reported problem and run it again until it prints `OK`.
@@ -46,7 +49,7 @@ Each word:
 {
  "term": "eat someone's lunch",        dictionary form
  "ipa": "/iːt ˈsʌmwʌnz lʌntʃ/",        General American, wrapped in slashes
- "pos": "idiom · informal · business", part of speech and register, in English
+ "pos": "idiom · informal · business", part of speech and register, in English (for the word, e.g. "noun · business")
  "zh": "搶走對手的生意、市佔",           Traditional Chinese meaning, at most 24 characters
  "def": "to take business or market share away from a competitor",   plain English definition
  "mn": "...",                          the mnemonic, Traditional Chinese, 15 to 110 characters
@@ -56,7 +59,7 @@ Each word:
 }
 ```
 
-The mnemonic is the heart of the lesson. It must be one concrete scene the reader can see, built from this news story, that makes the literal words of the phrase lead to its meaning. End with a short clause that states the link. Good: "午休時間，Google 打開便當，發現 ChatGPT 已經坐在旁邊夾走了五格裡的一格。便當被吃掉，就是生意被搶走。" Bad: an abstract explanation, an etymology lecture, or a scene unrelated to the story. The illustration must draw the same scene as the mnemonic.
+The mnemonic is the heart of the lesson. It must be one concrete scene the reader can see, built from this news story, that makes the literal words of the phrase lead to its meaning. For the single word, the scene can use the word's literal picture (a moat around a castle), its sound, or its parts. End with a short clause that states the link. Good: "午休時間，Google 打開便當，發現 ChatGPT 已經坐在旁邊夾走了五格裡的一格。便當被吃掉，就是生意被搶走。" Bad: an abstract explanation, an etymology lecture, or a scene unrelated to the story. The illustration must draw the same scene as the mnemonic.
 
 Each quiz question:
 

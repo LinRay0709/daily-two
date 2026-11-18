@@ -32,6 +32,10 @@ else d.words.forEach((w, i) => {
   str(w.ex, n + '.ex', 10, 120); str(w.exZh, n + '.exZh', 4, 70); str(w.ill, n + '.ill', 50, 6000);
   if (!hasZh(w.zh) || !hasZh(w.mn) || !hasZh(w.exZh)) bad(n + ': zh, mn and exZh must be Traditional Chinese');
   if (typeof w.ipa === 'string' && !/^\/.+\/$/.test(w.ipa)) bad(n + '.ipa must be wrapped in slashes');
+  if (typeof w.term === 'string') {
+    if (i === 0 && !/\s/.test(w.term.trim())) bad('words[0] must be a phrase of two or more words');
+    if (i === 1 && /\s/.test(w.term.trim())) bad('words[1] must be a single word (no spaces)');
+  }
   const s = w.ill || '';
   if (!/^<svg[^>]*viewBox="0 0 320 190"[^>]*class="ill"|^<svg[^>]*class="ill"[^>]*viewBox="0 0 320 190"/.test(s)) bad(n + '.ill must start with <svg viewBox="0 0 320 190" class="ill" ...>');
   if (!/role="img"/.test(s) || !/aria-label="/.test(s)) bad(n + '.ill needs role="img" and an aria-label');
