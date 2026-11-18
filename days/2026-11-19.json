@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-19",
+ "topic": "醫療與生技新創",
+ "title": "Science Corp doubles down on bionic eyes with $400M",
+ "hook": "賭桌上，莊家把整疊籌碼往前一推：這把不只是押，是加倍押。",
+ "bridge": "押得起這麼大，是因為有人先把一整捲鈔票滾到你面前。",
+ "src": {
+  "name": "MedTech Dive",
+  "url": "https://www.medtechdive.com/news/science-corporation-raises-400m-to-commercialize-bci-device/875009/"
+ },
+ "p": [
+  "Science Corporation raised a $400 million Series D round to bring Prima, its retinal implant, to more patients. The system pairs an implant with glasses whose camera sends images to the implant using near-infrared light. The company says it will {0} its biohybrid program, which aims to use living neurons to connect to the brain without implanted wires.",
+  "The round was {1} by investors including Khosla Ventures, Y Combinator and Tenet Healthcare. Prima won a CE mark and launched in Europe in July 2026. In a trial of 38 patients with geographic atrophy, most gained 10 or more letters on an eye test, and the gains lasted through 36 months. In the US, Science plans to seek approval through the humanitarian device exemption."
+ ],
+ "inText": [
+  "double down on",
+  "bankrolled"
+ ],
+ "words": [
+  {
+   "term": "double down on",
+   "ipa": "/ˈdʌbəl daʊn ɑːn/",
+   "pos": "phrasal verb · informal · business",
+   "zh": "加碼押注、更堅定投入",
+   "def": "to commit even more strongly to a risky plan or position",
+   "mn": "Science 坐在賭桌前，biohybrid 計畫旁的籌碼本來只有兩枚，他把手一推，又疊上兩枚。籌碼加倍壓下去，就是加碼押注。",
+   "ex": "After the weak quarter, the retailer doubled down on its online store.",
+   "exZh": "那一季業績疲弱之後，這家零售商反而加碼投入網路商店。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"賭桌上，biohybrid 計畫旁的籌碼堆從兩枚加倍成四枚\"><rect x=\"10\" y=\"130\" width=\"300\" height=\"50\" rx=\"10\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><ellipse  cx=\"90\" cy=\"120\" rx=\"26\" ry=\"9\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><ellipse  cx=\"90\" cy=\"110\" rx=\"26\" ry=\"9\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g class=\"d1119-new\"><ellipse  cx=\"90\" cy=\"100\" rx=\"26\" ry=\"9\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><ellipse  cx=\"90\" cy=\"90\" rx=\"26\" ry=\"9\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><ellipse  cx=\"230\" cy=\"120\" rx=\"26\" ry=\"9\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><ellipse  cx=\"230\" cy=\"110\" rx=\"26\" ry=\"9\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g class=\"d1119-new2\"><ellipse  cx=\"230\" cy=\"100\" rx=\"26\" ry=\"9\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><ellipse  cx=\"230\" cy=\"90\" rx=\"26\" ry=\"9\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><text x=\"40\" y=\"60\" class=\"svgl\">biohybrid</text><text x=\"182\" y=\"60\" class=\"hand\">x2 bet</text><path class=\"d1119-arr\" d=\"M120 150 L170 150 M160 142 L170 150 L160 158\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\" stroke-linecap=\"round\"/><text x=\"40\" y=\"30\" class=\"hand\">doubling down</text></svg>"
+  },
+  {
+   "term": "bankroll",
+   "ipa": "/ˈbæŋkroʊl/",
+   "pos": "verb · informal · business",
+   "zh": "出資支持、當金主",
+   "def": "to provide the money needed to fund a project or company",
+   "mn": "創投 Khosla 把一捲厚厚的鈔票（roll）從銀行（bank）裡滾出來，一路滾到 Science 腳邊。銀行出的那一捲錢，就是 bankroll，金主出資。",
+   "ex": "A local billionaire bankrolled the whole film.",
+   "exZh": "一位當地富豪出資支持了整部電影。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"一捲鈔票滾向銀行，象徵資金被投資人提供\"><rect x=\"190\" y=\"70\" width=\"110\" height=\"90\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><path d=\"M180 70 L245 30 L310 70 Z\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"205\" y=\"86\" width=\"14\" height=\"58\" fill=\"var(--line)\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"235\" y=\"86\" width=\"14\" height=\"58\" fill=\"var(--line)\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"265\" y=\"86\" width=\"14\" height=\"58\" fill=\"var(--line)\" stroke=\"var(--mute)\" stroke-width=\"2\"/><line x1=\"184\" y1=\"160\" x2=\"306\" y2=\"160\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"222\" y=\"58\" class=\"svgl\">VC</text><g class=\"d1119-roll\"><circle cx=\"60\" cy=\"140\" r=\"24\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><circle cx=\"60\" cy=\"140\" r=\"14\" fill=\"none\" stroke=\"var(--mute)\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"140\" r=\"5\" fill=\"none\" stroke=\"var(--mute)\" stroke-width=\"2\"/><text x=\"52\" y=\"146\" class=\"svgl\">$</text></g><line x1=\"20\" y1=\"166\" x2=\"180\" y2=\"166\" stroke=\"var(--line)\" stroke-width=\"2\"/><text x=\"20\" y=\"30\" class=\"hand\">a roll of cash</text><text x=\"20\" y=\"52\" class=\"hand\">$400M</text></svg>"
+  }
+ ],
+ "css": ".d1119-new,.d1119-new2,.d1119-roll,.d1119-arr{transform-box:fill-box}\n.d1119-new{animation:d1119-up 3.6s ease-in-out infinite}\n.d1119-new2{animation:d1119-up 3.6s ease-in-out infinite;animation-delay:.3s}\n.d1119-arr{animation:d1119-nudge 3.6s ease-in-out infinite}\n.d1119-roll{transform-origin:center;animation:d1119-roll 3.6s ease-in-out infinite}\n@keyframes d1119-up{0%,20%{opacity:0;transform:translateY(-14px)}45%,100%{opacity:1;transform:translateY(0)}}\n@keyframes d1119-nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(10px)}}\n@keyframes d1119-roll{0%{transform:translateX(0) rotate(0)}70%,100%{transform:translateX(90px) rotate(360deg)}}\n@media (prefers-reduced-motion:reduce){.d1119-new,.d1119-new2{opacity:1}}",
+ "quiz": [
+  {
+   "q": "Despite the criticism, the CEO decided to ___ the new strategy.",
+   "opts": [
+    "double down on",
+    "back out of",
+    "tone down"
+   ],
+   "a": 0,
+   "why": "double down on 是更堅定地加碼。back out of 是退出，tone down 是降低強度。"
+  },
+  {
+   "q": "A group of angel investors agreed to ___ the startup's first prototype.",
+   "opts": [
+    "eyeball",
+    "write off",
+    "bankroll"
+   ],
+   "a": 2,
+   "why": "bankroll 是出資支持。eyeball 是目測，write off 是註銷損失。"
+  }
+ ]
+}
