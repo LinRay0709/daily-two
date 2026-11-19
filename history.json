@@ -1,34 +1,42 @@
 [
- {
-  "date": "2026-11-16",
-  "topic": "科技與 AI",
-  "terms": [
-   "eat someone's lunch",
-   "back-of-the-envelope"
-  ]
- },
- {
-  "date": "2026-11-17",
-  "topic": "醫療與生技新創",
-  "terms": [
-   "cut the cord",
-   "a shot in the arm"
-  ]
- },
- {
-  "date": "2026-11-18",
-  "topic": "科技與 AI",
-  "terms": [
-   "sign off on",
-   "dip a toe in the water"
-  ]
- },
- {
-  "date": "2026-11-19",
-  "topic": "醫療與生技新創",
-  "terms": [
-   "double down on",
-   "bankroll"
-  ]
- }
+  {
+    "date": "2026-11-16",
+    "topic": "科技與 AI",
+    "terms": [
+      "eat someone's lunch",
+      "back-of-the-envelope"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "topic": "醫療與生技新創",
+    "terms": [
+      "cut the cord",
+      "a shot in the arm"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "topic": "科技與 AI",
+    "terms": [
+      "sign off on",
+      "dip a toe in the water"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "topic": "醫療與生技新創",
+    "terms": [
+      "double down on",
+      "bankroll"
+    ]
+  },
+  {
+    "date": "2026-11-20",
+    "topic": "科技與 AI",
+    "terms": [
+      "blow past",
+      "windfall"
+    ]
+  }
 ]
