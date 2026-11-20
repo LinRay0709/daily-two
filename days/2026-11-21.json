@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "topic": "醫療與生技新創",
+ "title": "MiniMed muscles in on the patch-pump market",
+ "hook": "長椅上坐著標著 3 days 的貼片泵，一顆 7 days 的新貼片突然從旁邊擠了進來。",
+ "bridge": "長椅旁的沙發上，早已賴著一位不肯起身的現任龍頭，門外有人在敲門。",
+ "src": {
+  "name": "MedTech Dive",
+  "url": "https://www.medtechdive.com/news/minimed-gets-fda-nod-for-tubeless-insulin-pump/874766/"
+ },
+ "p": [
+  "MiniMed, which recently separated from Medtronic, announced on Monday that the FDA had cleared MiniMed Fit, its first tubeless insulin pump, MedTech Dive reported on Nov. 16. The patch can be worn for up to seven days and holds 300 units of insulin. MiniMed plans a phased U.S. launch in spring 2027, so the company is {0} a market that others already hold.",
+  "The market leader, Insulet, is the {1}: its Omnipod patch pump offers three-day wear. Tandem Diabetes Care announced its own tubeless pump the same week. Chief executive Que Dallara said, \"We don't think it's just another entrant,\" and pointed to the larger reservoir and longer wear as differences."
+ ],
+ "inText": [
+  "muscling in on",
+  "incumbent"
+ ],
+ "words": [
+  {
+   "term": "muscle in on",
+   "ipa": "/ˈmʌsəl ɪn ɑːn/",
+   "pos": "phrasal verb · informal · business",
+   "zh": "強行擠進別人的地盤",
+   "def": "to force your way into a business or activity that others already control",
+   "mn": "長椅上坐著標著 3 days 的貼片泵，7 days 的 MiniMed 秀出二頭肌（muscle）硬擠進去，把舊的擠到一旁。用肌肉擠進去，就是強行插足別人的地盤。",
+   "ex": "A few small airlines are trying to muscle in on the busiest routes.",
+   "exZh": "幾家小型航空公司正想強行插足最熱門的航線。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"標著 7 days 的新貼片泵用力擠進長椅，把標著 3 days 的舊貼片擠向一旁\"><line x1=\"10\" y1=\"160\" x2=\"310\" y2=\"160\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"40\" y=\"120\" width=\"240\" height=\"14\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"60\" y=\"134\" width=\"10\" height=\"26\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"250\" y=\"134\" width=\"10\" height=\"26\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g class=\"d1121-old\"><circle cx=\"110\" cy=\"92\" r=\"26\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"88\" y=\"97\" class=\"svgl\">3 days</text></g><g class=\"d1121-new\"><circle cx=\"205\" cy=\"92\" r=\"26\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"183\" y=\"97\" class=\"svgl\">7 days</text><path d=\"M232 80 L262 66\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\" stroke-linecap=\"round\"/></g><text x=\"20\" y=\"28\" class=\"hand\">muscle in on the bench</text><text x=\"20\" y=\"46\" class=\"hand\">Omnipod</text></svg>"
+  },
+  {
+   "term": "incumbent",
+   "ipa": "/ɪnˈkʌmbənt/",
+   "pos": "noun · business",
+   "zh": "現任者、既有的龍頭",
+   "def": "the company or person that currently holds a position or leads a market",
+   "mn": "Insulet 賴在沙發上，像「in-come-bent」，早就坐進去、屁股都坐彎了；MiniMed 在門外敲門。已經坐在位子上的那位，就是現任龍頭。",
+   "ex": "The incumbent senator has won every election in the district since 2002.",
+   "exZh": "這位現任參議員自 2002 年起每次選舉都在該選區獲勝。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"沙發上坐著標著 Insulet 的現任龍頭，標著 MiniMed 的挑戰者走來敲門\"><line x1=\"10\" y1=\"165\" x2=\"310\" y2=\"165\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"60\" y=\"80\" width=\"130\" height=\"70\" rx=\"10\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"48\" y=\"104\" width=\"24\" height=\"56\" rx=\"8\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"178\" y=\"104\" width=\"24\" height=\"56\" rx=\"8\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g class=\"d1121-sit\"><circle cx=\"125\" cy=\"72\" r=\"26\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"100\" y=\"77\" class=\"svgl\">Insulet</text></g><g class=\"d1121-knock\"><circle cx=\"262\" cy=\"128\" r=\"24\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"240\" y=\"133\" class=\"svgl\">MiniMed</text></g><text x=\"20\" y=\"28\" class=\"hand\">incumbent = stays put</text></svg>"
+  }
+ ],
+ "css": ".d1121-old,.d1121-new,.d1121-sit,.d1121-knock{transform-box:fill-box}\n.d1121-old{transform-origin:center;animation:d1121-a 3.4s ease-in-out infinite}\n.d1121-new{transform-origin:center;animation:d1121-b 3.4s ease-in-out infinite}\n.d1121-sit{transform-origin:center;animation:d1121-s 3.4s ease-in-out infinite}\n.d1121-knock{transform-origin:center;animation:d1121-k 3.4s ease-in-out infinite}\n@keyframes d1121-a{0%,20%{transform:translateX(0)}60%,100%{transform:translateX(-45px)}}\n@keyframes d1121-b{0%,20%{transform:translateX(30px)}60%,100%{transform:translateX(-10px)}}\n@keyframes d1121-s{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}\n@keyframes d1121-k{0%,100%{transform:translateX(0)}40%,60%{transform:translateX(-14px)}}\n@media (prefers-reduced-motion:reduce){.d1121-old{transform:translateX(-45px)}.d1121-new{transform:translateX(-10px)}}",
+ "quiz": [
+  {
+   "q": "A few small airlines are trying to ___ the busiest routes of the big carriers.",
+   "opts": [
+    "cash in on",
+    "muscle in on",
+    "hold out on"
+   ],
+   "a": 1,
+   "why": "muscle in on 是強行擠進別人的地盤。cash in on 是從中撈好處，hold out on 是對人隱瞞或不給。"
+  },
+  {
+   "q": "The ___ senator has won every election in the district since 2002.",
+   "opts": [
+    "rookie",
+    "maverick",
+    "incumbent"
+   ],
+   "a": 2,
+   "why": "incumbent 是現任者。rookie 是新手，maverick 是特立獨行的人。"
+  }
+ ]
+}
