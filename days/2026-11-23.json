@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-23",
+ "topic": "醫療與生技新創",
+ "title": "A catheter maker branches out into stroke clots",
+ "hook": "你看著一條只負責「把導管送進去」的老實主幹，旁邊突然冒出一根新枝。",
+ "bridge": "新枝長出來之後，公司的腳終於踩上了一塊岩壁上的小凸點。",
+ "src": {
+  "name": "Endovascular Today",
+  "url": "https://evtoday.com/news/radicals-reperfusion-catheters-cleared-for-acute-ischemic-stroke-treatment"
+ },
+ "p": [
+  "Radical Catheter Technologies said on Nov. 17 that the FDA has granted 510(k) clearance for its Radical 076 and 064 reperfusion catheters, Endovascular Today reported. The company, backed by NeuroTechnology Investors, had previously cleared only access catheters, so the decision lets it {0} mechanical thrombectomy, the procedure that restores blood flow in stroke patients with a large vessel occlusion.",
+  "The catheters use a ribbon-based design that the company says balances flexibility, stability and durability in complex neurovascular anatomy. Neurosurgeon Benjamin Yim of John Muir Medical Center said the device tracked smoothly and achieved complete revascularization on the first pass. For the company, a cleared product in a new procedure is a {1} in stroke care."
+ ],
+ "inText": [
+  "branch out into",
+  "foothold"
+ ],
+ "words": [
+  {
+   "term": "branch out",
+   "ipa": "/bræntʃ aʊt/",
+   "pos": "phrasal verb · everyday · business",
+   "zh": "拓展到新領域、跨足新業務",
+   "def": "to start doing something new, different from what you usually do",
+   "mn": "一棵導管樹原本只有 access 一根枝，現在旁邊長出一根亮黃色的 thrombectomy 新枝，直直伸向血管。樹長出新枝，就是跨足新領域。",
+   "ex": "The bakery branched out into catering last spring.",
+   "exZh": "這間麵包店去年春天跨足外燴。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"一條導管主幹原本只有一根 access 枝條，旁邊長出一根新的 thrombectomy 枝條伸向血管\"><line x1=\"10\" y1=\"165\" x2=\"310\" y2=\"165\" stroke=\"var(--mute)\" stroke-width=\"2\"/><path d=\"M150 165 L150 110\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><path d=\"M150 110 L90 60\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"40\" y=\"38\" width=\"90\" height=\"26\" rx=\"6\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"52\" y=\"56\" class=\"svgl\">access</text><g class=\"d1123-branch\"><path d=\"M150 110 L215 60\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"190\" y=\"30\" width=\"115\" height=\"28\" rx=\"6\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"198\" y=\"49\" class=\"svgl\">thrombectomy</text></g><circle cx=\"150\" cy=\"165\" r=\"6\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"20\" y=\"28\" class=\"hand\">branch out into</text></svg>"
+  },
+  {
+   "term": "foothold",
+   "ipa": "/ˈfʊthoʊld/",
+   "pos": "noun · business",
+   "zh": "立足點、初步據點",
+   "def": "a secure position from which you can make further progress, especially in a new market",
+   "mn": "光滑的岩壁上，公司的腳踩上一塊標著 510(k) 的黃色小凸點，終於站穩，可以往上爬。腳能踩住的洞，就是立足點。",
+   "ex": "The startup gained a foothold in Japan through a local partner.",
+   "exZh": "這家新創透過當地夥伴在日本取得立足點。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"攀岩者的腳踩上岩壁上標著 510(k) 的小凸點，站穩了新領域的立足點\"><line x1=\"10\" y1=\"175\" x2=\"310\" y2=\"175\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"190\" y=\"20\" width=\"120\" height=\"155\" rx=\"6\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"170\" y=\"100\" width=\"40\" height=\"14\" rx=\"4\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"120\" y=\"96\" class=\"svgl\">510(k)</text><g class=\"d1123-foot\"><path d=\"M60 175 L90 140 L135 118 L168 108\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><ellipse cx=\"168\" cy=\"105\" rx=\"14\" ry=\"7\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><text x=\"20\" y=\"28\" class=\"hand\">a foothold in stroke care</text></svg>"
+  }
+ ],
+ "css": ".d1123-branch,.d1123-foot{transform-box:fill-box}\n.d1123-branch{transform-origin:0% 100%;animation:d1123-b 3.6s ease-in-out infinite}\n.d1123-foot{transform-origin:0% 100%;animation:d1123-f 3.6s ease-in-out infinite}\n@keyframes d1123-b{0%,100%{transform:scale(.6);opacity:.3}50%{transform:scale(1);opacity:1}}\n@keyframes d1123-f{0%,100%{transform:translateY(8px)}50%{transform:translateY(0)}}\n@media (prefers-reduced-motion:reduce){.d1123-branch{transform:none;opacity:1}.d1123-foot{transform:none}}",
+ "quiz": [
+  {
+   "q": "After years of making only laptops, the company decided to ___ phones.",
+   "opts": [
+    "branch out into",
+    "back out of",
+    "cut down on"
+   ],
+   "a": 0,
+   "why": "branch out into 是跨足新領域。back out of 是退出，cut down on 是減少。"
+  },
+  {
+   "q": "The small lab finally gained a ___ in the European market.",
+   "opts": [
+    "bottleneck",
+    "foothold",
+    "blind spot"
+   ],
+   "a": 1,
+   "why": "foothold 是立足點。bottleneck 是瓶頸，blind spot 是盲點。"
+  }
+ ]
+}
