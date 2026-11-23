@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-24",
+ "topic": "科技與 AI",
+ "title": "OpenAI starts to hedge its bets beyond Nvidia",
+ "hook": "你看見賭桌上，一個賭客的籌碼幾乎全堆在同一格，手裡還捏著一枚。",
+ "bridge": "賭客把籌碼分開後，你回頭一看，另一個蹺蹺板正歪向重的那一邊。",
+ "src": {
+  "name": "Fortune",
+  "url": "https://fortune.com/2026/11/17/openai-reveals-first-amd-neocloud-provider-amid-nvidia-collapsejensen-huang-launching-his-comeback-campaign/"
+ },
+ "p": [
+  "TensorWave said this week that it will supply OpenAI with 457 megawatts of computing power across several U.S. data center sites, Fortune reported. It is the first neocloud tied to OpenAI's October deal with AMD, which covers 6 gigawatts, and the capacity is expected in the first half of 2027. With that deal, OpenAI looks to be {0}.",
+  "The 457 megawatts equal about 7.6% of the AMD deal, and TensorWave says it is its largest deployment ever. A source told Fortune that OpenAI's models still run almost entirely on Nvidia GPUs, a {1} arrangement, even as the company designs its own chip, Jalapeño, with Broadcom."
+ ],
+ "inText": [
+  "hedging its bets",
+  "lopsided"
+ ],
+ "words": [
+  {
+   "term": "hedge one's bets",
+   "ipa": "/hɛdʒ wʌnz bɛts/",
+   "pos": "idiom · informal · business",
+   "zh": "兩邊下注、分散風險",
+   "def": "to reduce the risk of losing by supporting more than one option",
+   "mn": "賭桌上，OpenAI 的籌碼幾乎全堆在 NVDA 那一格，這回它把一枚黃色籌碼挪到 AMD 那格。兩格都押，就是分散風險。",
+   "ex": "She kept her old job while hedging her bets with a small startup.",
+   "exZh": "她保留原本的工作，同時在一間小新創上兩邊下注。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"賭桌上有 NVDA 與 AMD 兩格，賭客把一枚籌碼從 NVDA 移到 AMD 下注\"><line x1=\"10\" y1=\"165\" x2=\"310\" y2=\"165\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"30\" y=\"80\" width=\"110\" height=\"70\" rx=\"6\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"60\" y=\"170\" class=\"svgl\">NVDA</text><rect x=\"180\" y=\"80\" width=\"110\" height=\"70\" rx=\"6\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"212\" y=\"170\" class=\"svgl\">AMD</text><circle cx=\"60\" cy=\"125\" r=\"13\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><circle cx=\"90\" cy=\"125\" r=\"13\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><circle cx=\"75\" cy=\"105\" r=\"13\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g class=\"d1124-chip\"><circle cx=\"110\" cy=\"105\" r=\"13\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><text x=\"20\" y=\"28\" class=\"hand\">hedge your bets</text></svg>"
+  },
+  {
+   "term": "lopsided",
+   "ipa": "/ˈlɑpˌsaɪdɪd/",
+   "pos": "adjective · everyday · business",
+   "zh": "一面倒的、失衡的",
+   "def": "uneven, with one side much bigger or heavier than the other",
+   "mn": "蹺蹺板一端壓著大塊黃色的 NVDA，另一端只坐著小小的 AMD，板子整個歪向一邊。一邊重一邊輕，就是失衡。",
+   "ex": "The trade deal was lopsided in favor of the larger country.",
+   "exZh": "這項貿易協議明顯偏向較大的國家。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"蹺蹺板一端壓著大塊 NVDA、另一端只有小塊 AMD，整個板子歪向一邊\"><line x1=\"10\" y1=\"170\" x2=\"310\" y2=\"170\" stroke=\"var(--mute)\" stroke-width=\"2\"/><path d=\"M160 170 L140 140 L180 140 Z\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g class=\"d1124-tilt\"><line x1=\"40\" y1=\"110\" x2=\"280\" y2=\"140\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"40\" y=\"70\" width=\"70\" height=\"40\" rx=\"4\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"48\" y=\"95\" class=\"svgl\">NVDA</text><rect x=\"245\" y=\"115\" width=\"30\" height=\"25\" rx=\"4\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"236\" y=\"108\" class=\"svgl\">AMD</text></g><text x=\"20\" y=\"28\" class=\"hand\">a lopsided setup</text></svg>"
+  }
+ ],
+ "css": ".d1124-chip,.d1124-tilt{transform-box:fill-box}\n.d1124-chip{animation:d1124-c 3.6s ease-in-out infinite}\n.d1124-tilt{transform-origin:50% 50%;animation:d1124-t 3.6s ease-in-out infinite}\n@keyframes d1124-c{0%,100%{transform:translateX(0)}50%{transform:translateX(140px)}}\n@keyframes d1124-t{0%,100%{transform:rotate(0)}50%{transform:rotate(-3deg)}}\n@media (prefers-reduced-motion:reduce){.d1124-chip{transform:translateX(140px)}.d1124-tilt{transform:none}}",
+ "quiz": [
+  {
+   "q": "The investor refused to put everything in one stock and chose to ___ across several funds.",
+   "opts": [
+    "hedge her bets",
+    "burn her bridges",
+    "jump the gun"
+   ],
+   "a": 0,
+   "why": "hedge one's bets 是分散風險。burn bridges 是斷絕後路，jump the gun 是操之過急。"
+  },
+  {
+   "q": "The match felt ___ because one team had twice as many players.",
+   "opts": [
+    "seamless",
+    "lopsided",
+    "airtight"
+   ],
+   "a": 1,
+   "why": "lopsided 是一面倒、失衡。seamless 是無縫順暢，airtight 是滴水不漏。"
+  }
+ ]
+}
