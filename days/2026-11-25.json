@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-25",
+ "topic": "醫療與生技新創",
+ "title": "Summit's lung cancer drug sent back to square one by the FDA",
+ "hook": "你看見一顆黃色棋子走到棋盤第五格，眼看就要過關。",
+ "bridge": "棋子被打回起點後，你轉頭看見一隻大手掌把一份黃色文件擋在門外。",
+ "src": {
+  "name": "BioPharma Dive",
+  "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/"
+ },
+ "p": [
+  "BioPharma Dive reported that the FDA this week turned down Summit Therapeutics' first request to approve its lung cancer drug, ivonescimab. The agency's letter said a modest benefit on tumor progression, plus a survival effect seen only in after-the-fact analyses, was not enough. Summit's shares fell {0}, to levels last seen more than two years ago.",
+  "Summit is not a startup, but the news matters to biotech investors. In effect, the agency {1} the idea that a small gain on one measure, backed by a survival story told afterward, could carry a drug to approval. The article gave no share price figures."
+ ],
+ "inText": [
+  "back to square one",
+  "rebuffed"
+ ],
+ "words": [
+  {
+   "term": "back to square one",
+   "ipa": "/bæk tu skwɛr wʌn/",
+   "pos": "idiom · informal · everyday",
+   "zh": "回到原點、一切重來",
+   "def": "back at the very beginning, after progress has been lost",
+   "mn": "Summit 的股價像棋子，原本走到第五格，FDA 一拒絕，棋子一路滑回標著 1 的起點格。回到第一格，就是一切重來。",
+   "ex": "When the server crashed, we lost the backup and were back to square one.",
+   "exZh": "伺服器當機後備份也沒了，我們又回到原點。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"棋盤小徑上，黃色棋子從右邊滑回標著 1 的起點格\"><line x1=\"10\" y1=\"165\" x2=\"310\" y2=\"165\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"20\" y=\"95\" width=\"50\" height=\"50\" rx=\"4\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"70\" y=\"95\" width=\"50\" height=\"50\" rx=\"4\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"120\" y=\"95\" width=\"50\" height=\"50\" rx=\"4\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"170\" y=\"95\" width=\"50\" height=\"50\" rx=\"4\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"220\" y=\"95\" width=\"50\" height=\"50\" rx=\"4\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"38\" y=\"127\" class=\"svgl\">1</text><text x=\"88\" y=\"127\" class=\"svgl\">2</text><text x=\"138\" y=\"127\" class=\"svgl\">3</text><text x=\"188\" y=\"127\" class=\"svgl\">4</text><text x=\"238\" y=\"127\" class=\"svgl\">5</text><g class=\"d1125-tok\"><circle cx=\"245\" cy=\"75\" r=\"14\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><text x=\"20\" y=\"28\" class=\"hand\">back to square one</text></svg>"
+  },
+  {
+   "term": "rebuff",
+   "ipa": "/rɪˈbʌf/",
+   "pos": "verb · formal-ish · business",
+   "zh": "斷然拒絕、擋回去",
+   "def": "to reject someone's offer, request or idea in a blunt way",
+   "mn": "Summit 捧著黃色申請文件走向 FDA，一隻大手掌直接把文件擋住推了回去。被一掌擋回，就是 rebuff。",
+   "ex": "The board rebuffed the buyout offer without even a meeting.",
+   "exZh": "董事會連會都沒開就斷然拒絕了收購報價。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"一隻手掌標著 FDA 擋住黃色文件，文件被推回去\"><line x1=\"10\" y1=\"170\" x2=\"310\" y2=\"170\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"200\" y=\"50\" width=\"30\" height=\"110\" rx=\"4\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"196\" y=\"42\" class=\"svgl\">FDA</text><rect x=\"230\" y=\"70\" width=\"40\" height=\"60\" rx=\"8\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"240\" y1=\"70\" x2=\"240\" y2=\"52\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"250\" y1=\"70\" x2=\"250\" y2=\"48\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"260\" y1=\"70\" x2=\"260\" y2=\"52\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g class=\"d1125-doc\"><rect x=\"60\" y=\"85\" width=\"70\" height=\"50\" rx=\"4\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"72\" y1=\"102\" x2=\"118\" y2=\"102\" stroke=\"var(--ink)\" stroke-width=\"2\"/><line x1=\"72\" y1=\"115\" x2=\"106\" y2=\"115\" stroke=\"var(--ink)\" stroke-width=\"2\"/></g><text x=\"20\" y=\"28\" class=\"hand\">rebuffed</text></svg>"
+  }
+ ],
+ "css": ".d1125-tok,.d1125-doc{transform-box:fill-box}\n.d1125-tok{animation:d1125-t 3.6s ease-in-out infinite}\n.d1125-doc{animation:d1125-d 3.2s ease-in-out infinite}\n@keyframes d1125-t{0%,15%{transform:translateX(0)}60%,100%{transform:translateX(-200px)}}\n@keyframes d1125-d{0%,100%{transform:translateX(0)}40%{transform:translateX(60px)}55%{transform:translateX(60px)}85%{transform:translateX(-25px)}}\n@media (prefers-reduced-motion:reduce){.d1125-tok{transform:translateX(-200px)}.d1125-doc{transform:none}}",
+ "quiz": [
+  {
+   "q": "After the failed launch, the team had to scrap everything and start ___.",
+   "opts": [
+    "off the hook",
+    "back to square one",
+    "under the weather"
+   ],
+   "a": 1,
+   "why": "back to square one 是回到原點重來。off the hook 是脫身、不用負責，under the weather 是身體不太舒服。"
+  },
+  {
+   "q": "The mayor ___ the council's plan, calling it too expensive.",
+   "opts": [
+    "embraced",
+    "rubber-stamped",
+    "rebuffed"
+   ],
+   "a": 2,
+   "why": "rebuff 是斷然拒絕。embrace 是欣然接受，rubber-stamp 是不經審查就蓋章通過。"
+  }
+ ]
+}
