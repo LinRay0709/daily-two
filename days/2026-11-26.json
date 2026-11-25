@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-26",
+ "topic": "科技與 AI",
+ "title": "Dell's AI servers pick up the slack as PC sales slump",
+ "hook": "你看見一條繩子，左邊那端軟趴趴地垂在地上。",
+ "bridge": "繩子旁邊，一根長條像洩了氣一樣，一路往下沉。",
+ "src": {
+  "name": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
+ },
+ "p": [
+  "CNBC reported that Dell's sales more than doubled in its latest quarter, to $54.94 billion. Servers built for AI brought in $22 billion, and Dell said it holds a $132.3 billion backlog of AI server orders. Those machines {0} on the PC side, where laptop revenue came in below what analysts had expected.",
+  "Dell's PC business was hurt by a market CNBC said was in a {1}, as rising memory prices made devices costlier and shoppers kept their old laptops. Vice chairman Jeff Clarke said Dell is now a different company, with its server unit driving most of its profit and growth."
+ ],
+ "inText": [
+  "picked up the slack",
+  "slump"
+ ],
+ "words": [
+  {
+   "term": "pick up the slack",
+   "ipa": "/pɪk ʌp ðə slæk/",
+   "pos": "idiom · informal · business",
+   "zh": "接手別人做不完的部分",
+   "def": "to do the work that someone else is not doing or cannot do",
+   "mn": "Dell 的 PC 那端繩子鬆垮垮垂在地上，AI 伺服器那端的手一把拉緊，把黃色箱子拖過來。鬆掉的繩子（slack）被拉起來，就是接手空缺。",
+   "ex": "Two engineers quit, so the rest of us had to pick up the slack.",
+   "exZh": "兩位工程師離職，剩下的人只好接手他們的工作。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"左邊標著 PC 的繩子鬆垂，右邊標著 AI 的手把繩子拉緊，黃色箱子被拉向右邊\"><line x1=\"10\" y1=\"170\" x2=\"310\" y2=\"170\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"20\" y=\"95\" width=\"40\" height=\"75\" rx=\"4\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"26\" y=\"88\" class=\"svgl\">PC</text><rect x=\"260\" y=\"95\" width=\"40\" height=\"75\" rx=\"4\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"266\" y=\"88\" class=\"svgl\">AI</text><path d=\"M60 120 Q95 165 130 130\" fill=\"none\" stroke=\"var(--mute)\" stroke-width=\"2.5\"/><g class=\"d1126-box\"><rect x=\"130\" y=\"110\" width=\"50\" height=\"40\" rx=\"4\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"180\" y1=\"130\" x2=\"260\" y2=\"130\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><text x=\"20\" y=\"28\" class=\"hand\">pick up the slack</text></svg>"
+  },
+  {
+   "term": "slump",
+   "ipa": "/slʌmp/",
+   "pos": "noun · business",
+   "zh": "低迷、驟降",
+   "def": "a sudden or long drop in sales, prices or performance",
+   "mn": "Dell 的 PC 長條像人癱坐在椅子上，整個人一路往下滑，越坐越矮。身體癱軟下沉，就是銷量低迷。",
+   "ex": "Home sales are in a slump because mortgage rates are so high.",
+   "exZh": "房貸利率太高，房屋銷售陷入低迷。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"標著 PC 的長條一路往下沉，旁邊的黃色箭頭向下\"><line x1=\"10\" y1=\"170\" x2=\"310\" y2=\"170\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"60\" y=\"60\" width=\"50\" height=\"110\" rx=\"4\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"68\" y=\"52\" class=\"svgl\">PC</text><g class=\"d1126-bar\"><rect x=\"150\" y=\"60\" width=\"50\" height=\"110\" rx=\"4\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><g class=\"d1126-arr\"><path d=\"M250 70 L250 130 M232 112 L250 134 L268 112\" fill=\"none\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><circle cx=\"250\" cy=\"60\" r=\"10\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><text x=\"20\" y=\"28\" class=\"hand\">slump</text></svg>"
+  }
+ ],
+ "css": ".d1126-box,.d1126-bar,.d1126-arr{transform-box:fill-box}\n.d1126-box{animation:d1126-a 3.4s ease-in-out infinite}\n.d1126-bar{transform-origin:50% 100%;animation:d1126-b 3.6s ease-in-out infinite}\n.d1126-arr{animation:d1126-c 3.6s ease-in-out infinite}\n@keyframes d1126-a{0%,15%{transform:translateX(0)}60%,100%{transform:translateX(50px)}}\n@keyframes d1126-b{0%,15%{transform:scaleY(1)}70%,100%{transform:scaleY(.4)}}\n@keyframes d1126-c{0%,15%{transform:translateY(0)}70%,100%{transform:translateY(25px)}}\n@media (prefers-reduced-motion:reduce){.d1126-box{transform:translateX(50px)}.d1126-bar{transform:scaleY(.4)}.d1126-arr{transform:translateY(25px)}}",
+ "quiz": [
+  {
+   "q": "When our teammate went on leave, Maria had to ___ on the launch.",
+   "opts": [
+    "pick up the slack",
+    "cut some slack",
+    "slack off"
+   ],
+   "a": 0,
+   "why": "pick up the slack 是接手別人沒做完的工作。cut some slack 是對人寬容、放一馬，slack off 是偷懶。"
+  },
+  {
+   "q": "The company's profits fell during the summer ___ in tourism.",
+   "opts": [
+    "surge",
+    "outlook",
+    "slump"
+   ],
+   "a": 2,
+   "why": "slump 是銷量或業績低迷。surge 是暴增，outlook 是展望，放進句子都不符合『下滑』的意思。"
+  }
+ ]
+}
