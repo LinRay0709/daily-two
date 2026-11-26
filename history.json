@@ -1,90 +1,98 @@
 [
-  {
-    "date": "2026-11-16",
-    "topic": "科技與 AI",
-    "terms": [
-      "eat someone's lunch",
-      "back-of-the-envelope"
-    ]
-  },
-  {
-    "date": "2026-11-17",
-    "topic": "醫療與生技新創",
-    "terms": [
-      "cut the cord",
-      "a shot in the arm"
-    ]
-  },
-  {
-    "date": "2026-11-18",
-    "topic": "科技與 AI",
-    "terms": [
-      "sign off on",
-      "dip a toe in the water"
-    ]
-  },
-  {
-    "date": "2026-11-19",
-    "topic": "醫療與生技新創",
-    "terms": [
-      "double down on",
-      "bankroll"
-    ]
-  },
-  {
-    "date": "2026-11-20",
-    "topic": "科技與 AI",
-    "terms": [
-      "blow past",
-      "windfall"
-    ]
-  },
-  {
-    "date": "2026-11-21",
-    "topic": "醫療與生技新創",
-    "terms": [
-      "muscle in on",
-      "incumbent"
-    ]
-  },
-  {
-    "date": "2026-11-22",
-    "topic": "科技與 AI",
-    "terms": [
-      "take the wheel",
-      "guardrail"
-    ]
-  },
-  {
-    "date": "2026-11-23",
-    "topic": "醫療與生技新創",
-    "terms": [
-      "branch out",
-      "foothold"
-    ]
-  },
-  {
-    "date": "2026-11-24",
-    "topic": "科技與 AI",
-    "terms": [
-      "hedge one's bets",
-      "lopsided"
-    ]
-  },
-  {
-    "date": "2026-11-25",
-    "topic": "醫療與生技新創",
-    "terms": [
-      "back to square one",
-      "rebuff"
-    ]
-  },
-  {
-    "date": "2026-11-26",
-    "topic": "科技與 AI",
-    "terms": [
-      "pick up the slack",
-      "slump"
-    ]
-  }
+ {
+  "date": "2026-11-16",
+  "topic": "科技與 AI",
+  "terms": [
+   "eat someone's lunch",
+   "back-of-the-envelope"
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "topic": "醫療與生技新創",
+  "terms": [
+   "cut the cord",
+   "a shot in the arm"
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "topic": "科技與 AI",
+  "terms": [
+   "sign off on",
+   "dip a toe in the water"
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "topic": "醫療與生技新創",
+  "terms": [
+   "double down on",
+   "bankroll"
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "topic": "科技與 AI",
+  "terms": [
+   "blow past",
+   "windfall"
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "topic": "醫療與生技新創",
+  "terms": [
+   "muscle in on",
+   "incumbent"
+  ]
+ },
+ {
+  "date": "2026-11-22",
+  "topic": "科技與 AI",
+  "terms": [
+   "take the wheel",
+   "guardrail"
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "topic": "醫療與生技新創",
+  "terms": [
+   "branch out",
+   "foothold"
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "topic": "科技與 AI",
+  "terms": [
+   "hedge one's bets",
+   "lopsided"
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "topic": "醫療與生技新創",
+  "terms": [
+   "back to square one",
+   "rebuff"
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "topic": "科技與 AI",
+  "terms": [
+   "pick up the slack",
+   "slump"
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "topic": "醫療與生技新創",
+  "terms": [
+   "pull the rug out from under",
+   "stonewall"
+  ]
+ }
 ]

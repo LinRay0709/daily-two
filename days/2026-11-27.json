@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-27",
+ "topic": "醫療與生技新創",
+ "title": "FDA pulls the rug out from under Capricor's Duchenne therapy",
+ "hook": "你看見一個人穩穩站在一張黃色地毯上，手裡捧著一瓶藥。",
+ "bridge": "同一家公司接著去敲一堵石牆，敲了又敲，牆裡一點聲音也沒有。",
+ "src": {
+  "name": "BioSpace",
+  "url": "https://www.biospace.com/fda/capricor-ceo-says-fda-never-gave-dmd-cell-therapy-a-fair-shake"
+ },
+ "p": [
+  "BioSpace reported that the FDA rejected Capricor Therapeutics' Duchenne muscular dystrophy cell therapy, deramiocel, for a second time. The decision {0} the company: shares closed at $7.59 on Friday and were trading near $1.91 before the market opened on Monday. The FDA recommended a new randomized trial, which CEO Linda Marbán said would take about four years.",
+  "Marbán called the rejection a \"giant shock\" and said the agency {1} the company. She said Capricor sent 13 meeting requests between April and October, and none was granted. BioSpace reported that the FDA cited data integrity issues in its decision."
+ ],
+ "inText": [
+  "pulled the rug out from under",
+  "stonewalled"
+ ],
+ "words": [
+  {
+   "term": "pull the rug out from under",
+   "ipa": "/pʊl ðə rʌɡ aʊt frʌm ˈʌndər/",
+   "pos": "idiom · informal · everyday",
+   "zh": "突然抽掉支撐，讓人措手不及",
+   "def": "to suddenly take away the support or plans someone was counting on",
+   "mn": "Capricor 捧著藥瓶，穩穩站在一張黃色地毯上，FDA 伸手一把把地毯抽走，人當場摔倒。腳下的地毯被抽掉，就是突然失去依靠。",
+   "ex": "The investor backed out the night before closing and pulled the rug out from under the startup.",
+   "exZh": "投資人在交割前一晚反悔，讓這家新創措手不及。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"標著 FDA 的方塊把黃色地毯抽走，站在地毯上的小人摔倒\"><line x1=\"10\" y1=\"170\" x2=\"310\" y2=\"170\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"20\" y=\"115\" width=\"55\" height=\"55\" rx=\"4\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"30\" y=\"148\" class=\"svgl\">FDA</text><g class=\"d1127-rug\"><rect x=\"100\" y=\"156\" width=\"150\" height=\"14\" rx=\"3\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><g class=\"d1127-man\"><circle cx=\"175\" cy=\"84\" r=\"13\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"175\" y1=\"97\" x2=\"175\" y2=\"130\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"175\" y1=\"130\" x2=\"162\" y2=\"155\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"175\" y1=\"130\" x2=\"188\" y2=\"155\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"175\" y1=\"108\" x2=\"160\" y2=\"120\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"175\" y1=\"108\" x2=\"192\" y2=\"98\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"190\" y=\"84\" width=\"10\" height=\"16\" rx=\"2\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2\"/></g><text x=\"20\" y=\"28\" class=\"hand\">pull the rug out</text></svg>"
+  },
+  {
+   "term": "stonewall",
+   "ipa": "/ˈstoʊnˌwɔːl/",
+   "pos": "verb · business",
+   "zh": "推托拖延、拒不回應",
+   "def": "to refuse to answer questions or cooperate, so nothing moves forward",
+   "mn": "Capricor 的人一拳一拳敲在 FDA 的石牆（stone wall）上，敲了 13 次，牆裡零回應，紋風不動。敲不開的石牆，就是拒不回應。",
+   "ex": "The company stonewalled reporters who asked about the data breach.",
+   "exZh": "公司對詢問資料外洩的記者一律推托不答。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"一個拳頭敲向標著 FDA 的石牆，牆面紋風不動，旁邊寫著 13 次、0 次回應\"><line x1=\"10\" y1=\"170\" x2=\"310\" y2=\"170\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"200\" y=\"40\" width=\"100\" height=\"130\" rx=\"3\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><line x1=\"200\" y1=\"83\" x2=\"300\" y2=\"83\" stroke=\"var(--mute)\" stroke-width=\"2\"/><line x1=\"200\" y1=\"126\" x2=\"300\" y2=\"126\" stroke=\"var(--mute)\" stroke-width=\"2\"/><line x1=\"250\" y1=\"40\" x2=\"250\" y2=\"83\" stroke=\"var(--mute)\" stroke-width=\"2\"/><line x1=\"225\" y1=\"83\" x2=\"225\" y2=\"126\" stroke=\"var(--mute)\" stroke-width=\"2\"/><line x1=\"275\" y1=\"83\" x2=\"275\" y2=\"126\" stroke=\"var(--mute)\" stroke-width=\"2\"/><line x1=\"250\" y1=\"126\" x2=\"250\" y2=\"170\" stroke=\"var(--mute)\" stroke-width=\"2\"/><text x=\"224\" y=\"66\" class=\"svgl\">FDA</text><g class=\"d1127-fist\"><line x1=\"40\" y1=\"110\" x2=\"110\" y2=\"110\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><circle cx=\"125\" cy=\"110\" r=\"16\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><text x=\"20\" y=\"28\" class=\"hand\">13 knocks → 0 replies</text></svg>"
+  }
+ ],
+ "css": ".d1127-rug,.d1127-man,.d1127-fist{transform-box:fill-box}\n.d1127-rug{animation:d1127-a 3.6s ease-in-out infinite}\n.d1127-man{transform-origin:50% 100%;animation:d1127-b 3.6s ease-in-out infinite}\n.d1127-fist{animation:d1127-c 3s ease-in-out infinite}\n@keyframes d1127-a{0%,20%{transform:translateX(0)}50%,100%{transform:translateX(-80px)}}\n@keyframes d1127-b{0%,40%{transform:translate(0,0) rotate(0)}70%,100%{transform:translate(0,22px) rotate(-70deg)}}\n@keyframes d1127-c{0%,100%{transform:translateX(0)}40%{transform:translateX(50px)}55%{transform:translateX(20px)}}\n@media (prefers-reduced-motion:reduce){.d1127-rug{transform:translateX(-80px)}.d1127-man{transform:translate(0,22px) rotate(-70deg)}.d1127-fist{transform:translateX(50px)}}",
+ "quiz": [
+  {
+   "q": "Our biggest client cancelled at the last minute and ___ me.",
+   "opts": [
+    "pulled the rug out from under",
+    "gave a leg up to",
+    "took under its wing"
+   ],
+   "a": 0,
+   "why": "pull the rug out from under 是突然抽掉支撐、讓人措手不及。give a leg up 是助人一把，take under one's wing 是庇護、照顧新人。"
+  },
+  {
+   "q": "For months the city council ___ reporters' requests for the budget records.",
+   "opts": [
+    "fast-tracked",
+    "filibustered",
+    "stonewalled"
+   ],
+   "a": 2,
+   "why": "stonewall 是拒不回應、拖著不給。fast-tracked 是加快處理，filibuster 是在議會用冗長發言拖延表決，不是拒絕提供資料。"
+  }
+ ]
+}
