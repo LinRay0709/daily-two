@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "topic": "科技與 AI",
+ "title": "Amazon and Meta try to hammer out a deal on Muse",
+ "hook": "你看見兩個人站在鐵砧兩側，中間一張燒得發亮的合約。",
+ "bridge": "接著畫面一轉：一座城堡被護城河圍住，河面上有艘小船想偷偷划過去。",
+ "src": {
+  "name": "The Decoder",
+  "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
+ },
+ "p": [
+  "The Decoder, citing Fortune, reported that Amazon and Meta are in talks to end Amazon's September block on Meta's AI shopping agent, Muse. The two sides are trying to {0} a deal, but ad revenue and control over search results remain sticking points. Any agreement would need sign-off from both CEOs.",
+  "Amazon's ad business brings in $68.6 billion a year, and shopping agents could bypass those ads. That revenue is the {1} Amazon wants to defend. The Decoder, citing Forter Intelligence data, said Muse accounted for 51% of all agentic orders."
+ ],
+ "inText": [
+  "hammer out",
+  "moat"
+ ],
+ "words": [
+  {
+   "term": "hammer out",
+   "ipa": "/ˈhæmər aʊt/",
+   "pos": "phrasal verb · informal · business",
+   "zh": "艱難地談出協議或細節",
+   "def": "to reach an agreement or work out details after hard negotiation",
+   "mn": "Amazon 和 Meta 的執行長站在鐵砧兩側輪流掄錘，把一張燒紅的合約敲成形，廣告分潤和搜尋排序這兩處凸起慢慢被敲平。一槌槌敲出來，就是談出協議。",
+   "ex": "The union and the airline spent all night trying to hammer out a new contract.",
+   "exZh": "工會與航空公司整夜努力談出新的合約。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"兩人在鐵砧兩側，一把錘子敲打一張發亮的合約\"><line x1=\"10\" y1=\"170\" x2=\"310\" y2=\"170\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"120\" y=\"150\" width=\"80\" height=\"20\" rx=\"3\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><path d=\"M105 128 L215 128 L200 150 L120 150 Z\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"135\" y=\"104\" width=\"50\" height=\"24\" rx=\"2\" class=\"d1128-deal\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"141\" y=\"121\" class=\"svgl\">DEAL</text><g class=\"d1128-hammer\"><line x1=\"60\" y1=\"40\" x2=\"125\" y2=\"82\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"112\" y=\"64\" width=\"34\" height=\"22\" rx=\"3\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/></g><text x=\"20\" y=\"28\" class=\"hand\">hammer out a deal</text></svg>"
+  },
+  {
+   "term": "moat",
+   "ipa": "/moʊt/",
+   "pos": "noun · business",
+   "zh": "護城河，難以被攻破的競爭優勢",
+   "def": "a lasting advantage that protects a business from competitors",
+   "mn": "Amazon 的廣告城堡外挖了一圈護城河（moat），河裡流的是每年 686 億美元的廣告收入，Muse 的小船想偷偷划過去。擋住來犯者的河，就是競爭優勢。",
+   "ex": "Its huge network of users is the moat that keeps rivals from catching up.",
+   "exZh": "龐大的用戶網路是讓對手追不上的護城河。",
+   "ill": "<svg viewBox=\"0 0 320 190\" class=\"ill\" role=\"img\" aria-label=\"標著廣告 686 億美元的城堡被護城河環繞，Muse 小船想繞過去\"><line x1=\"10\" y1=\"170\" x2=\"310\" y2=\"170\" stroke=\"var(--mute)\" stroke-width=\"2\"/><rect x=\"170\" y=\"150\" width=\"140\" height=\"20\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"200\" y=\"60\" width=\"90\" height=\"90\" rx=\"3\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><rect x=\"220\" y=\"86\" width=\"50\" height=\"30\" rx=\"3\" fill=\"var(--hl)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"224\" y=\"106\" class=\"svgl\">$68.6B</text><text x=\"210\" y=\"52\" class=\"svgl\">Amazon ads</text><path d=\"M20 150 Q40 140 60 150 T100 150 T140 150 L170 150 L170 170 L20 170 Z\" fill=\"var(--bento)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><g class=\"d1128-boat\"><path d=\"M30 130 L80 130 L72 145 L38 145 Z\" fill=\"var(--card)\" stroke=\"var(--ink)\" stroke-width=\"2.5\"/><text x=\"40\" y=\"124\" class=\"hand\">Muse</text></g><text x=\"20\" y=\"28\" class=\"hand\">moat</text></svg>"
+  }
+ ],
+ "css": ".d1128-hammer,.d1128-deal,.d1128-boat{transform-box:fill-box}\n.d1128-hammer{transform-origin:0% 0%;animation:d1128-a 3s ease-in-out infinite}\n.d1128-deal{transform-origin:50% 100%;animation:d1128-b 3s ease-in-out infinite}\n.d1128-boat{animation:d1128-c 3.6s ease-in-out infinite}\n@keyframes d1128-a{0%,100%{transform:rotate(-25deg)}40%{transform:rotate(10deg)}55%{transform:rotate(-8deg)}}\n@keyframes d1128-b{0%,35%,100%{transform:scaleY(1)}45%{transform:scaleY(.8)}}\n@keyframes d1128-c{0%{transform:translate(0,0)}50%{transform:translate(70px,-3px)}70%,100%{transform:translate(70px,-3px) rotate(0)}}\n@media (prefers-reduced-motion:reduce){.d1128-hammer{transform:rotate(10deg)}.d1128-boat{transform:translate(70px,-3px)}}",
+ "quiz": [
+  {
+   "q": "After weeks of talks, the two unions finally ___ a contract.",
+   "opts": [
+    "hammered out",
+    "knocked off",
+    "talked down"
+   ],
+   "a": 0,
+   "why": "hammer out 是經過艱難協商談出協議。knock off 是停工或仿冒，talk down 是貶低或勸人冷靜。"
+  },
+  {
+   "q": "Its patented battery technology gives the company a deep ___ that rivals struggle to cross.",
+   "opts": [
+    "bottleneck",
+    "windfall",
+    "moat"
+   ],
+   "a": 2,
+   "why": "moat 是難以被攻破的競爭優勢。bottleneck 是流程中的瓶頸，windfall 是意外之財。"
+  }
+ ]
+}
